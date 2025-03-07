@@ -1,0 +1,1 @@
+The project is run in the main method of ConstraintSatisfactionProblem. You should input either "map" or "job" (sans quotations), then the name of the file on the command line. From there, the program will correspondingly run either a map coloring CSP or job-shop scheduling CSP.
